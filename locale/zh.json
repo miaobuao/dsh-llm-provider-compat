@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "模型提供商 developer 角色兼容",
+    "description": "在插件中心的插件页面列出所有模型提供商；勾选的提供商在调用时不再发送 developer 角色。"
+  }
+}

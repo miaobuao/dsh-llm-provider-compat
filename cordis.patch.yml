@@ -1,0 +1,6 @@
+# Host row of the provider developer-role compatibility bundle. The capability
+# itself is the Client section this bundle contributes to its own Plugin Center
+# page; the Host half only makes the bundle selectable and visible.
+- insert:
+    - id: llm-provider-compat
+      name: 'dsh-llm-provider-compat'

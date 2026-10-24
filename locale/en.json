@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Provider Developer-Role Compatibility",
+    "description": "Lists every model provider on this plugin's Plugin Center page; checked providers stop sending the OpenAI developer role."
+  }
+}
